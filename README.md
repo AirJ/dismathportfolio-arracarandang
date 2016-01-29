@@ -5,7 +5,7 @@ dismathportfolio-arracarandang created by Classroom for GitHub
 
 DisMath or Discrete Mathematics, is a subject where the only thing you have to deal with is logic.And from the comments of the higher batch or those who already took up Dismath, it is really a hard subject to pass. 
 
-Sir Cabatuan, our professor in dismath, is an ECE professor who has traveled a lot of countries where he 
+Sir Cabatuan, our professor in dismath, is an ECE professor who has traveled to a lot of countries where he contributed to their technology.
 
 I've learned the following in our first day:
 
